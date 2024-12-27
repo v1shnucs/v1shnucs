@@ -9,7 +9,6 @@ I am a Master's student in Computer Science at California State University Chann
 🌱 I specialize in:  
 - **Software Development:** Creating scalable, full-stack applications using modern frameworks and technologies.  
 - **Machine Learning:** Designing and optimizing ML models to solve real-world problems.  
-- **Research:** Reproducing and experimenting with cutting-edge AI models like GPT-2.
 
 🚀 **Open to full-time roles starting May 2025** in Software Engineering or Machine Learning Engineering.
 
