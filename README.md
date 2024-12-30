@@ -13,8 +13,8 @@ I am a Master's student in Computer Science at California State University Chann
 🚀 **Open to full-time roles starting May 2025** in Software Engineering or Machine Learning Engineering.
 
 ## Technical Skills  
-- **Languages:** C/C++, Python, Java, JavaScript
-- **Web & Database:** HTML, CSS, React, Node, Express, TypeScript, Docker, AWS, SQL, PostgreSQL  
+- **Languages:** C/C++, Python, Java, JavaScript, TypeScript
+- **Web & Database:** HTML, CSS, React, Node, Express, Docker, AWS, SQL, PostgreSQL  
 - **Machine Learning:** Scikit-Learn, NumPy, Pandas, Matplotlib, TensorFlow, PyTorch
 
 ## Projects  
