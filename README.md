@@ -13,10 +13,9 @@ I am a Master's student in Computer Science at California State University Chann
 🚀 **Open to full-time roles starting May 2025** in Software Engineering or Machine Learning Engineering.
 
 ## Technical Skills  
-- **Languages:** C/C++, Python, Java, JavaScript, TypeScript  
-- **Frameworks & Tools:** React, Node.js, Express, Docker, AWS, TensorFlow, PyTorch  
-- **Web & Database:** HTML, CSS, SQL, PostgreSQL  
-- **Machine Learning:** Scikit-Learn, NumPy, Pandas, Matplotlib  
+- **Languages:** C/C++, Python, Java, JavaScript
+- **Web & Database:** HTML, CSS, React, Node, Express, TypeScript, Docker, AWS, SQL, PostgreSQL  
+- **Machine Learning:** Scikit-Learn, NumPy, Pandas, Matplotlib, TensorFlow, PyTorch
 
 ## Projects  
 💡 **[GPT-2 Reproduction](https://github.com/v1shnu-star/GPT-2-reproduction)**  
