@@ -37,5 +37,5 @@ Created a dynamic Yelp clone with React, Express, and PostgreSQL, importing over
 
 ## Contact Me  
 - **Email:** [vishnu.reshamwala764@myci.csuci.edu](mailto:vishnu.reshamwala764@myci.csuci.edu)  
-- **GitHub:** [github.com/v1shnu-star](https://github.com/v1shnu-star)  
+- **GitHub:** [github.com/v1shnu-star](https://github.com/v1shnucs)  
 - **LinkedIn:** [linkedin.com/in/v1shnucs](https://linkedin.com/in/v1shnucs)  
