@@ -64,6 +64,6 @@ I'm a passionate Computer Science graduate student at California State Universit
 
 | Project | Description | Tech Stack | Website | Demo |
 |---|---|---|---|---|
-| **Bink: AI Conversational Shopping Assistant** | An AI-powered conversational shopping assistant enabling users to find products via natural language and image-based queries. | React, Node.js, TypeScript, Gemini API, SerpApi | [Live Site](https://v1shnu.vercel.app/) | [YouTube](https://www.youtube.com/watch?v=your_video_id) |
+| **Bink: AI Conversational Shopping Assistant** | An AI-powered conversational shopping assistant enabling users to find products via natural language and image-based queries. | React, Node.js, TypeScript, Gemini API, SerpApi | [Live Site](https://v1shnu.vercel.app/) | [YouTube](https://www.youtube.com/watch?v=RuH5prSioMQ&ab_channel=Vishnu) |
 | **TinderJob: Swipe-Based Job Matching** | An innovative job recruitment platform that revolutionizes hiring with a swipe-based interface for seamless recruiter-job seeker matching. | React.js, NestJS, MongoDB, JWT, RESTful APIs | - | [YouTube](https://www.youtube.com/watch?v=your_video_id) |
 | **Retrieval-Augmented Generation (RAG) AI Agent** | An AI agent using RAG to provide context-aware responses by retrieving information from a local document corpus. | LangChain, FAISS, LLaMa, HuggingFace Transformers | - | - |
